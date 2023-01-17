@@ -1,3 +1,3 @@
-const sample = () => {
-  console.log("hello world" + "mariano");
+const sample = (name) => {
+  console.log("hello world" + name);
 };
