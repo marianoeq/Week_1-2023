@@ -9,3 +9,6 @@ body {
 section {
   border: solid 1 px;
 }
+.section {
+  margin: 1rem;
+}
